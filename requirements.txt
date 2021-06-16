@@ -1,6 +1,6 @@
 numpy==1.16.6
 matplotlib==3.4.2
-sklearn==0.21.3
+scikit-learn==0.24.2
 scikit-image
 pillow==8.2.0
 streamlit
