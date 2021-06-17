@@ -2,4 +2,4 @@ streamlit
 matplotlib
 numpy
 scikit-image
-sklearn
+sklearn==0.21.3
