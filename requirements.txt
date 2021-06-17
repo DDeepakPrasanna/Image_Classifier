@@ -1,5 +1,5 @@
 streamlit
 matplotlib
 numpy
-skimage
+scikit-imag
 sklearn
