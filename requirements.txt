@@ -12,5 +12,4 @@ scikit-learn==0.21.3
 matplotlib>=1.4.3
 pandas>=0.19
 flasgger==0.9.4
-Cython>= 0.28.5
 streamlit
