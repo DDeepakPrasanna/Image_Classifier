@@ -5,6 +5,7 @@ import numpy as np
 from skimage.io import imread
 from skimage.transform import resize
 import pickle
+from sklearn.ensemble import RandomForestClassifier
 from PIL import Image
 st.set_option('deprecation.showfileUploaderEncoding',False)
 st.title("Image classifier using Machine Learning")
