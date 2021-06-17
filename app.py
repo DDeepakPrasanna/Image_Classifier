@@ -7,7 +7,7 @@ from skimage.transform import resize
 import pickle
 from PIL import Image
 st.set_option('deprecation.showfileUploaderEncoding',False)
-st.title("immage classifier")
+st.title("Image classifier using Machine Learning")
 st.text("Upload the image")
 
 model = pickle.load(open('img_model.p','rb'))
